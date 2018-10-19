@@ -1,0 +1,5 @@
+attribute_id,text,max_score,min_score
+1,"""My manager cares about me as a person.""",5,1
+2,"""My manager helps me to grow in my career.""",5,1
+3,"""My manager does not micromanage.""",5,1
+4,"""My manager has the right skill set to perform his/her job.""",5,1
